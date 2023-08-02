@@ -74,7 +74,7 @@ section {
   }
 }
 
-/* Hide the preloader when content is ready */
+/* Hide the preloader when content is ready. */
 body.loaded .preloader {
   display: none;
 }
