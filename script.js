@@ -1,6 +1,6 @@
 let searchForm = document.querySelector(".search-form");
 
-// Wait for the page to fully load
+// Wait for the page to fully load.
 window.addEventListener("load", () => {
   const preloader = document.querySelector(".preloader");
   preloader.classList.add("hide");
